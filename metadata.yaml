@@ -1,0 +1,28 @@
+_repo: Recuerdos-de-Italia-parte-2-de-2_53742
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castelar, Emilio
+    aliases:
+    - Ripoll, Emilio Castelar
+    - Castelar y Ripoll, Emilio
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '47510'
+    url: http://www.gutenberg.org/2009/agents/47510
+description: ''
+gutenberg_issued: '2016-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53742'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Description and travel'
+- !lcc 'DG'
+- !lcsh 'Rome (Italy) -- Description and travel'
+- GITenberg
+title: Recuerdos de Italia (parte 2 de 2)
+url: http://www.gutenberg.org/ebooks/53742
